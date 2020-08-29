@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Aifrion/Aifrion.github.io/static/css/main.221bbd04.chunk.css",
-    "main.js": "/Aifrion/Aifrion.github.io/static/js/main.852435eb.chunk.js",
-    "main.js.map": "/Aifrion/Aifrion.github.io/static/js/main.852435eb.chunk.js.map",
-    "runtime-main.js": "/Aifrion/Aifrion.github.io/static/js/runtime-main.245bfbc1.js",
-    "runtime-main.js.map": "/Aifrion/Aifrion.github.io/static/js/runtime-main.245bfbc1.js.map",
-    "static/js/2.7e062505.chunk.js": "/Aifrion/Aifrion.github.io/static/js/2.7e062505.chunk.js",
-    "static/js/2.7e062505.chunk.js.map": "/Aifrion/Aifrion.github.io/static/js/2.7e062505.chunk.js.map",
-    "index.html": "/Aifrion/Aifrion.github.io/index.html",
-    "precache-manifest.d6a90a34e6f0549b2ff15b404ebaa5a4.js": "/Aifrion/Aifrion.github.io/precache-manifest.d6a90a34e6f0549b2ff15b404ebaa5a4.js",
-    "service-worker.js": "/Aifrion/Aifrion.github.io/service-worker.js",
-    "static/css/main.221bbd04.chunk.css.map": "/Aifrion/Aifrion.github.io/static/css/main.221bbd04.chunk.css.map",
-    "static/js/2.7e062505.chunk.js.LICENSE.txt": "/Aifrion/Aifrion.github.io/static/js/2.7e062505.chunk.js.LICENSE.txt"
+    "main.css": "/byeeAmazonTemp/static/css/main.221bbd04.chunk.css",
+    "main.js": "/byeeAmazonTemp/static/js/main.1e19de76.chunk.js",
+    "main.js.map": "/byeeAmazonTemp/static/js/main.1e19de76.chunk.js.map",
+    "runtime-main.js": "/byeeAmazonTemp/static/js/runtime-main.af7aa681.js",
+    "runtime-main.js.map": "/byeeAmazonTemp/static/js/runtime-main.af7aa681.js.map",
+    "static/js/2.03c55bd2.chunk.js": "/byeeAmazonTemp/static/js/2.03c55bd2.chunk.js",
+    "static/js/2.03c55bd2.chunk.js.map": "/byeeAmazonTemp/static/js/2.03c55bd2.chunk.js.map",
+    "index.html": "/byeeAmazonTemp/index.html",
+    "precache-manifest.d3f7c75a6a15237e7ac39af144e4ec95.js": "/byeeAmazonTemp/precache-manifest.d3f7c75a6a15237e7ac39af144e4ec95.js",
+    "service-worker.js": "/byeeAmazonTemp/service-worker.js",
+    "static/css/main.221bbd04.chunk.css.map": "/byeeAmazonTemp/static/css/main.221bbd04.chunk.css.map",
+    "static/js/2.03c55bd2.chunk.js.LICENSE.txt": "/byeeAmazonTemp/static/js/2.03c55bd2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.245bfbc1.js",
-    "static/js/2.7e062505.chunk.js",
+    "static/js/runtime-main.af7aa681.js",
+    "static/js/2.03c55bd2.chunk.js",
     "static/css/main.221bbd04.chunk.css",
-    "static/js/main.852435eb.chunk.js"
+    "static/js/main.1e19de76.chunk.js"
   ]
 }
