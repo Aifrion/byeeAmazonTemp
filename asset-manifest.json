@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/byeeAmazonTemp/static/css/main.221bbd04.chunk.css",
-    "main.js": "/byeeAmazonTemp/static/js/main.1e19de76.chunk.js",
-    "main.js.map": "/byeeAmazonTemp/static/js/main.1e19de76.chunk.js.map",
+    "main.js": "/byeeAmazonTemp/static/js/main.e89fb43f.chunk.js",
+    "main.js.map": "/byeeAmazonTemp/static/js/main.e89fb43f.chunk.js.map",
     "runtime-main.js": "/byeeAmazonTemp/static/js/runtime-main.af7aa681.js",
     "runtime-main.js.map": "/byeeAmazonTemp/static/js/runtime-main.af7aa681.js.map",
     "static/js/2.03c55bd2.chunk.js": "/byeeAmazonTemp/static/js/2.03c55bd2.chunk.js",
     "static/js/2.03c55bd2.chunk.js.map": "/byeeAmazonTemp/static/js/2.03c55bd2.chunk.js.map",
     "index.html": "/byeeAmazonTemp/index.html",
-    "precache-manifest.d3f7c75a6a15237e7ac39af144e4ec95.js": "/byeeAmazonTemp/precache-manifest.d3f7c75a6a15237e7ac39af144e4ec95.js",
+    "precache-manifest.04d6b3cda55cda3ce3fc136a02076f57.js": "/byeeAmazonTemp/precache-manifest.04d6b3cda55cda3ce3fc136a02076f57.js",
     "service-worker.js": "/byeeAmazonTemp/service-worker.js",
     "static/css/main.221bbd04.chunk.css.map": "/byeeAmazonTemp/static/css/main.221bbd04.chunk.css.map",
     "static/js/2.03c55bd2.chunk.js.LICENSE.txt": "/byeeAmazonTemp/static/js/2.03c55bd2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.af7aa681.js",
     "static/js/2.03c55bd2.chunk.js",
     "static/css/main.221bbd04.chunk.css",
-    "static/js/main.1e19de76.chunk.js"
+    "static/js/main.e89fb43f.chunk.js"
   ]
 }
